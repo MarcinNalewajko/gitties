@@ -10,10 +10,11 @@ def joke():
 def add(a, b):
     return a+b
 
-
 def joke():
     print("Good joke")
 
+def home():
+    print("Go to home my friend")
 
 def shout():
     print('QUITE!!!! please')
